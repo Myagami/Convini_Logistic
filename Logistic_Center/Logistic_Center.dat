@@ -8,15 +8,18 @@ Mapcolor=39
 chance=100
 dims=3,2,1
 #In
-#InputGood[0]=ConvIni_Cart(Normal_Temp)
-#InputCapacity[0]=250
-#InputFactor[0]=300
-#InputGood[1]=ConvIni_Cart(Cool_Temp)
-#InputCapacity[1]=250
-#InputFactor[1]=300
-#InputGood[2]=ConvIni_Cart(Frozen_Temp)
-#InputCapacity[2]=250
-#InputFactor[2]=300
+InputGood[0]=beer
+InputCapacity[0]=250
+InputFactor[0]=300
+InputGood[1]=food
+InputCapacity[1]=250
+InputFactor[1]=300
+InputGood[2]=Buecher
+InputCapacity[2]=250
+InputFactor[2]=300
+InputGood[3]=canned_food
+InputCapacity[3]=250
+InputFactor[3]=300
 
 #Out
 OutputGood[0]=Convini_Cart(Normal_Temp)
